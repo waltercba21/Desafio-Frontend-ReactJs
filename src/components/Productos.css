@@ -1,0 +1,23 @@
+.contenedor-producto h1 {
+    font-size: 20px;
+}
+.contenedor-producto label{
+    display: flex;
+    flex-direction: row;
+    align-self: start;
+    padding: 20px;
+    background-color: rgb(214, 212, 211);
+    font-size: 16px;
+    font-weight: 700;
+}
+
+
+.contenedor-producto input {
+    margin: 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: #f8eeee ;
+}
+
+
+
